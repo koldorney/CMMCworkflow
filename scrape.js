@@ -10,7 +10,19 @@ async function collectDODAwardees(options = {}) {
         timeout = 8000
     } = options;
 
-    const browser = await chromium.launch({ headless });
+    const browser = await chromium.launch({
+        headless,
+        args: [
+            '--no-sandbox',
+            '--disable-setuid-sandbox',
+            '--disable-dev-shm-usage',
+            '--disable-accelerated-2d-canvas',
+            '--no-first-run',
+            '--no-zygote',
+            '--single-process',
+            '--disable-gpu'
+        ]
+    });
     const context = await browser.newContext();
     const page = await context.newPage();
     page.setDefaultTimeout(timeout);
