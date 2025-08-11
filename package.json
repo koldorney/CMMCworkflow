@@ -4,7 +4,10 @@
   "description": "",
   "main": "scrape.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "build": "npx playwright install --with-deps",
+    "postinstall": "npx playwright install --with-deps",
+    "scrape": "node -e \"require('./scrape.js')().then(r => console.log('Done')).catch(console.error)\""
   },
   "private": true,
   "dependencies": {
