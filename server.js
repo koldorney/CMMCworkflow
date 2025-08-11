@@ -168,8 +168,8 @@ app.get('/', (req, res) => {
     });
 });
 
-// Handle 404
-app.use('*', (req, res) => {
+// Handle 404 - using a more compatible approach
+app.use((req, res) => {
     res.status(404).json({
         error: 'Endpoint not found',
         availableEndpoints: ['POST /scrape', 'GET /results/latest', 'GET /results', 'GET /health']

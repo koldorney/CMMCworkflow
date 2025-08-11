@@ -1,0 +1,731 @@
+{
+  "timestamp": "2025-08-11T14:33:25.398Z",
+  "filters": {
+    "department": "Department of Defense",
+    "naics": "31-33 - Manufacturing",
+    "states": "All 50 US States",
+    "dateRange": "Past Week",
+    "status": "Active and Inactive"
+  },
+  "summary": {
+    "totalUniqueAwardees": 211,
+    "statesProcessed": 50,
+    "statesWithResults": 39
+  },
+  "allUniqueAwardees": [
+    "3T BUSINESS GROUP LLC",
+    "AB GROUP INC",
+    "ACE ELECTRONICS DEFENSE SYSTEMS, LLC",
+    "ACM ELITE, LLC",
+    "ADAM N EVE SAFETY LLC",
+    "ADORAMA INC.",
+    "ALAMEX INC",
+    "ALASKA RUBBER GROUP, INC.",
+    "ALDEVRA LLC",
+    "ALL SAFE INDUSTRIES, INC",
+    "ALLIANCE NETWORK INTEGRATORS LLC",
+    "ALTERNATIVE LOGISTICS LLC",
+    "AM GENERAL LLC",
+    "AMERICAN BEDDING MFG., LLC",
+    "AMERICAN COMPRESSOR COMPANY",
+    "AMERICAN DIESEL POWER PRODUCTS, INC.",
+    "AMERICAN EQUIPMENT COMPANY",
+    "AMERICAN MATERIAL HANDLING, INC.",
+    "AMETEK AMERON, LLC",
+    "ARHAB LLC",
+    "ARKWIN INDUSTRIES, INC.",
+    "ARMOR METAL GROUP MASON, INC.",
+    "ATLANTIC DIVING SUPPLY, INC.",
+    "ATLAS TOYOTA MATERIAL HANDLING, LLC",
+    "AVIATE ENTERPRISES, INC.",
+    "AXION CORP",
+    "Aantilia LLC",
+    "Argon ST, Inc.",
+    "B & H INTERNATIONAL LLC",
+    "BELL BOEING JOINT PROJECT OFFICE",
+    "BEST MEDICAL WEAR LTD",
+    "BEVY ELECTRONICS CORP.",
+    "BHPE LLC",
+    "BLACK BOX SAFETY, INC",
+    "BLUE TECH INC.",
+    "BRAVO, INC.",
+    "BRL TEST, INC",
+    "BUY IT SOLUTIONS INC",
+    "Beacon Industries, Inc.",
+    "Blue Heron Tactical Supply LLC",
+    "CALIENTE LLC",
+    "CEF INDUSTRIES, LLC",
+    "CENTRAL WELDING SUPPLY COMPANY",
+    "CFM INTERNATIONAL INC",
+    "CIRCOR NAVAL SOLUTIONS LLC",
+    "CLEARTOPIA SOLUTIONS LLC",
+    "CLOUGH H R INC",
+    "COBURN CHEMICALS, INCORPORATED",
+    "CONCEPTA MANAGEMENT LLC",
+    "CONNECTEC COMPANY, INC.",
+    "COORDINATED DEFENSE SUPPLY SYSTEMS, INC.",
+    "CPR SAVERS & FIRST AID SUPPLY, LLC",
+    "CROWN POINT SYSTEMS INC.",
+    "CUSTOM TRAILERS BUILDER LLC",
+    "Cahaba Forest Products LLC",
+    "Central Power Systems & Services, LLC",
+    "D. C. HUMPHRYS CO.",
+    "DELSYS, INC.",
+    "DOCUMENT IMAGING DIMENSIONS INC.",
+    "DXP ENTERPRISES, INC.",
+    "EARL HELMER III",
+    "ECI DEFENSE GROUP, INC.",
+    "EHB SUPPLY",
+    "ELITE TEXTILE TRADING LLC",
+    "EPSILON TECHNOLOGY CORPORATION",
+    "EQUINOX STRATEGIES LLC",
+    "Earle Kinlaw & Associates, Inc.",
+    "Ecology Mir Group LLC",
+    "FED CREW INC",
+    "FEDERAL CONTRACTS LLC",
+    "FEDTEK, INC.",
+    "FEOLE TECHNOLOGIES INC",
+    "FIGHTER JET METALS INC.",
+    "FIRE DEPARTMENT SERVICE & SUPPLY CO",
+    "FRANEK TECHNOLOGIES, INC.",
+    "FSR CONSULTING LLC",
+    "G SYSTEMS, INC.",
+    "GLOBAL ENTERPRISE, INC",
+    "GMS INDUSTRIAL SUPPLY, INC.",
+    "GOLDEN STATE MEDICAL SUPPLY INC",
+    "GOVAGE, INC.",
+    "GOVCREST INC",
+    "GRANDIDA, LLC",
+    "GREENE METAL PRODUCTS, INC.",
+    "GTA CONTAINERS, LLC",
+    "HADLAND IMAGING LLC",
+    "HAMILTON SUNDSTRAND CORPORATION",
+    "HANSOME ENERGY SYSTEMS INC",
+    "HAWKINS GLASS WHOLESALERS, L.L.C",
+    "HERMEZ COMMUNICATIONS INC",
+    "HIPP MARINE SERVICES, INC",
+    "HONEYWELL INTERNATIONAL INC",
+    "HOWELL LABORATORIES INC",
+    "HUNTSVILLE FASTENER & SUPPLY INC",
+    "I-2-I Solutions, Inc.",
+    "IMH ENTERPRISE INC",
+    "INA LED US, INC. dba INA Display",
+    "INDEPENDENT ROUGH TERRAIN CENTER LLC",
+    "INDUSTRIAL AUTOMATION INC",
+    "INDUSTRIAL METAL SALES LLC",
+    "INTEGRATED PROCUREMENT TECHNOLOGIES",
+    "IRWIN AUTOMATION INC",
+    "IT VISION NETWORKS INC",
+    "Inveris Training Solutions, Inc.",
+    "IronMountain Solutions, LLC",
+    "JAMAICA BEARINGS CO., INC.",
+    "JERED LLC",
+    "JOHNSON CONTROLS, INC",
+    "JRH ELECTRONICS L.L.C.",
+    "K5 DEFENSE LLC",
+    "KELLY & HAYES ELECTRICAL SUPPLY OF L.I., INC.",
+    "KEYSIGHT TECHNOLOGIES INC",
+    "KGOC GROUP LLC",
+    "KINEMECHA INC",
+    "KIPPER TOOL COMPANY",
+    "KRATOS UNMANNED AERIAL SYSTEMS, INC",
+    "Kijero, LLC",
+    "LIGHTING TECHNOLOGY, INC.",
+    "LIVING GROUP LLC",
+    "LOC PERFORMANCE PRODUCTS LLC",
+    "LOGISTICS365 INC",
+    "Lockheed Martin Corporation",
+    "MACGYVER SOLUTIONS, INC.",
+    "MACHINE TOOL MARKETING INC",
+    "MACTECH INCORPORATED",
+    "MAGNUM PRECISION MACHINES INC",
+    "MAGRITEK INC",
+    "MDM MAC ENTERPRISES INC",
+    "MDS L.L.C.",
+    "MEAK SOLUTIONS LLC.",
+    "MEDICAL GRAPHICS CORPORATION",
+    "MIDWEST LAKE MANAGEMENT, INC.",
+    "MILITARY AIRLIFT EXPERTS LLC (MILAIRX LLC)",
+    "MILITARY SUPPLY CO LLC",
+    "MJR ASSOCIATES LLC",
+    "MK TEST SYSTEMS AMERICAS INC",
+    "ML CLICK MARKETING LLC",
+    "NETS DEPOT INC.",
+    "NEWCO INC",
+    "NIDAZ LLC",
+    "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+    "OFFICE DESIGN & FURNISHINGS LLC",
+    "OHD LLLP",
+    "ONE 21 LOGISTICS LLC",
+    "PACIFIC CONSOLIDATED INDUSTRIES LLC",
+    "PARADIGM PARACHUTE AND DEFENSE INC",
+    "PARKER-HANNIFIN CORPORATION",
+    "PC VISION INC",
+    "PERFECTED SOLUTIONS LLC",
+    "PIVOT INTERIORS, INC.",
+    "PLATYPUS MARINE INC",
+    "POMP'S TIRE SERVICE, INC.",
+    "POTOMAC ELECTRIC CORP",
+    "POWELL ELECTRONICS, INC.",
+    "PRECISION FILTERS, INC.",
+    "PROSOURCE PACKAGING INC",
+    "PUEBLO HOTEL SUPPLY CO",
+    "Penn Power Group",
+    "QORTEK INC",
+    "Quixle LLC",
+    "RACHE CORPORATION",
+    "RAYTHEON COMPANY",
+    "RED ORANGE NORTH AMERICA",
+    "RICE LAKE WEIGHING SYSTEMS, INC",
+    "RICKARD METALS, INC.",
+    "RIX INDUSTRIES",
+    "RLS (USA) INC.",
+    "ROSCO INC",
+    "RTX CORPORATION",
+    "S I T CORPORATION",
+    "SAAB, INC.",
+    "SBG DEFENSE LLC",
+    "SCULLY SIGNAL COMPANY",
+    "SEDGWICK BUSINESS INTERIORS - SYRACUSE LLC",
+    "SEILER INSTRUMENT AND MANUFACTURING COMPANY, INCORPORATED",
+    "SHELL PACKAGING CORPORATION",
+    "SHOPPAS MATERIAL HANDLING, LTD.",
+    "SIKORSKY AIRCRAFT CORPORATION",
+    "SKO ENTERPRISES INC",
+    "SKOVIRA MACHINE CO",
+    "SNOW & ICE SALT & CHEMICALS UNLIMITED, LLC",
+    "SONCOAST PROCUREMENT, LLC",
+    "SPACE AGE ENGINEERING, INC",
+    "SPARK INDUSTRIES MFG LLC",
+    "STAR POLY BAG, INC.",
+    "STELLANT PST CORP.",
+    "STONEAGE, INC.",
+    "STRYKER SALES, LLC",
+    "Suncore Distribution LLC",
+    "Supera, LLC",
+    "T & T MATERIALS INC",
+    "TACTICAL VISION TECHNOLOGIES, LLC",
+    "TAZA SUPPLIES INC",
+    "TECH SERVICE SOLUTIONS LLC",
+    "THE BOEING COMPANY",
+    "THE TOOTA GROUP LLC",
+    "TIM PRICE INC.",
+    "TOWNLINE EQUIPMENT SALES, INC",
+    "TRACKSIDE SOLUTIONS LLC",
+    "TRAVERSE SOLUTIONS & INSTRUMENTATION, LLC",
+    "TWEATHERFORD INC",
+    "Tower Engineering Company",
+    "Troxler Electronic Laboratories, Inc.",
+    "UNISON INDUSTRIES LLC",
+    "US BOLT MANUFACTURING INC",
+    "VASTGLOBE LOGISTICS LLC",
+    "VCLOUD GOV INC.",
+    "VECTOR COLLISION ANALYSIS LLC",
+    "VELASEA, LLC",
+    "WAREHOUSE ONE, INC",
+    "WESTEX GROUP, INC"
+  ],
+  "resultsByState": {
+    "AL": {
+      "stateName": "Alabama",
+      "count": 5,
+      "awardees": [
+        "AXION CORP",
+        "Cahaba Forest Products LLC",
+        "HUNTSVILLE FASTENER & SUPPLY INC",
+        "IronMountain Solutions, LLC",
+        "OHD LLLP"
+      ]
+    },
+    "AK": {
+      "stateName": "Alaska",
+      "count": 1,
+      "awardees": [
+        "ALASKA RUBBER GROUP, INC."
+      ]
+    },
+    "AZ": {
+      "stateName": "Arizona",
+      "count": 4,
+      "awardees": [
+        "CPR SAVERS & FIRST AID SUPPLY, LLC",
+        "ML CLICK MARKETING LLC",
+        "RAYTHEON COMPANY",
+        "TECH SERVICE SOLUTIONS LLC"
+      ]
+    },
+    "AR": {
+      "stateName": "Arkansas",
+      "count": 0,
+      "awardees": []
+    },
+    "CA": {
+      "stateName": "California",
+      "count": 28,
+      "awardees": [
+        "ALAMEX INC",
+        "AMERICAN COMPRESSOR COMPANY",
+        "AMETEK AMERON, LLC",
+        "AVIATE ENTERPRISES, INC.",
+        "B & H INTERNATIONAL LLC",
+        "BLACK BOX SAFETY, INC",
+        "BLUE TECH INC.",
+        "CONNECTEC COMPANY, INC.",
+        "CROWN POINT SYSTEMS INC.",
+        "CUSTOM TRAILERS BUILDER LLC",
+        "ELITE TEXTILE TRADING LLC",
+        "FRANEK TECHNOLOGIES, INC.",
+        "GOLDEN STATE MEDICAL SUPPLY INC",
+        "HADLAND IMAGING LLC",
+        "HIPP MARINE SERVICES, INC",
+        "INA LED US, INC. dba INA Display",
+        "KINEMECHA INC",
+        "KRATOS UNMANNED AERIAL SYSTEMS, INC",
+        "Kijero, LLC",
+        "LIGHTING TECHNOLOGY, INC.",
+        "PACIFIC CONSOLIDATED INDUSTRIES LLC",
+        "PARKER-HANNIFIN CORPORATION",
+        "PIVOT INTERIORS, INC.",
+        "RACHE CORPORATION",
+        "RICKARD METALS, INC.",
+        "RIX INDUSTRIES",
+        "SPACE AGE ENGINEERING, INC",
+        "VELASEA, LLC"
+      ]
+    },
+    "CO": {
+      "stateName": "Colorado",
+      "count": 4,
+      "awardees": [
+        "CLEARTOPIA SOLUTIONS LLC",
+        "KEYSIGHT TECHNOLOGIES INC",
+        "PUEBLO HOTEL SUPPLY CO",
+        "STONEAGE, INC."
+      ]
+    },
+    "CT": {
+      "stateName": "Connecticut",
+      "count": 5,
+      "awardees": [
+        "ARHAB LLC",
+        "Beacon Industries, Inc.",
+        "HAMILTON SUNDSTRAND CORPORATION",
+        "RTX CORPORATION",
+        "SIKORSKY AIRCRAFT CORPORATION"
+      ]
+    },
+    "DE": {
+      "stateName": "Delaware",
+      "count": 0,
+      "awardees": []
+    },
+    "FL": {
+      "stateName": "Florida",
+      "count": 15,
+      "awardees": [
+        "AMERICAN EQUIPMENT COMPANY",
+        "BRAVO, INC.",
+        "BRL TEST, INC",
+        "FEDERAL CONTRACTS LLC",
+        "FIGHTER JET METALS INC.",
+        "GRANDIDA, LLC",
+        "K5 DEFENSE LLC",
+        "MDS L.L.C.",
+        "NETS DEPOT INC.",
+        "PARADIGM PARACHUTE AND DEFENSE INC",
+        "RLS (USA) INC.",
+        "S I T CORPORATION",
+        "SAAB, INC.",
+        "SONCOAST PROCUREMENT, LLC",
+        "UNISON INDUSTRIES LLC"
+      ]
+    },
+    "GA": {
+      "stateName": "Georgia",
+      "count": 8,
+      "awardees": [
+        "AMERICAN MATERIAL HANDLING, INC.",
+        "ECI DEFENSE GROUP, INC.",
+        "Earle Kinlaw & Associates, Inc.",
+        "Inveris Training Solutions, Inc.",
+        "JERED LLC",
+        "KGOC GROUP LLC",
+        "KIPPER TOOL COMPANY",
+        "MJR ASSOCIATES LLC"
+      ]
+    },
+    "HI": {
+      "stateName": "Hawaii",
+      "count": 0,
+      "awardees": []
+    },
+    "ID": {
+      "stateName": "Idaho",
+      "count": 0,
+      "awardees": []
+    },
+    "IL": {
+      "stateName": "Illinois",
+      "count": 8,
+      "awardees": [
+        "ALLIANCE NETWORK INTEGRATORS LLC",
+        "ATLAS TOYOTA MATERIAL HANDLING, LLC",
+        "CEF INDUSTRIES, LLC",
+        "DOCUMENT IMAGING DIMENSIONS INC.",
+        "IMH ENTERPRISE INC",
+        "MK TEST SYSTEMS AMERICAS INC",
+        "TAZA SUPPLIES INC",
+        "TRACKSIDE SOLUTIONS LLC"
+      ]
+    },
+    "IN": {
+      "stateName": "Indiana",
+      "count": 5,
+      "awardees": [
+        "AM GENERAL LLC",
+        "CALIENTE LLC",
+        "GTA CONTAINERS, LLC",
+        "HONEYWELL INTERNATIONAL INC",
+        "TWEATHERFORD INC"
+      ]
+    },
+    "IA": {
+      "stateName": "Iowa",
+      "count": 0,
+      "awardees": []
+    },
+    "KS": {
+      "stateName": "Kansas",
+      "count": 0,
+      "awardees": []
+    },
+    "KY": {
+      "stateName": "Kentucky",
+      "count": 2,
+      "awardees": [
+        "ALL SAFE INDUSTRIES, INC",
+        "FIRE DEPARTMENT SERVICE & SUPPLY CO"
+      ]
+    },
+    "LA": {
+      "stateName": "Louisiana",
+      "count": 2,
+      "awardees": [
+        "AMERICAN DIESEL POWER PRODUCTS, INC.",
+        "GOVCREST INC"
+      ]
+    },
+    "ME": {
+      "stateName": "Maine",
+      "count": 1,
+      "awardees": [
+        "HOWELL LABORATORIES INC"
+      ]
+    },
+    "MD": {
+      "stateName": "Maryland",
+      "count": 6,
+      "awardees": [
+        "AB GROUP INC",
+        "ACE ELECTRONICS DEFENSE SYSTEMS, LLC",
+        "COBURN CHEMICALS, INCORPORATED",
+        "PERFECTED SOLUTIONS LLC",
+        "SNOW & ICE SALT & CHEMICALS UNLIMITED, LLC",
+        "WESTEX GROUP, INC"
+      ]
+    },
+    "MA": {
+      "stateName": "Massachusetts",
+      "count": 4,
+      "awardees": [
+        "CIRCOR NAVAL SOLUTIONS LLC",
+        "DELSYS, INC.",
+        "POTOMAC ELECTRIC CORP",
+        "SCULLY SIGNAL COMPANY"
+      ]
+    },
+    "MI": {
+      "stateName": "Michigan",
+      "count": 7,
+      "awardees": [
+        "ALDEVRA LLC",
+        "COORDINATED DEFENSE SUPPLY SYSTEMS, INC.",
+        "GREENE METAL PRODUCTS, INC.",
+        "INDUSTRIAL METAL SALES LLC",
+        "LOC PERFORMANCE PRODUCTS LLC",
+        "OFFICE DESIGN & FURNISHINGS LLC",
+        "STRYKER SALES, LLC"
+      ]
+    },
+    "MN": {
+      "stateName": "Minnesota",
+      "count": 2,
+      "awardees": [
+        "MACTECH INCORPORATED",
+        "MEDICAL GRAPHICS CORPORATION"
+      ]
+    },
+    "MS": {
+      "stateName": "Mississippi",
+      "count": 0,
+      "awardees": []
+    },
+    "MO": {
+      "stateName": "Missouri",
+      "count": 5,
+      "awardees": [
+        "Central Power Systems & Services, LLC",
+        "GOVAGE, INC.",
+        "MIDWEST LAKE MANAGEMENT, INC.",
+        "SEILER INSTRUMENT AND MANUFACTURING COMPANY, INCORPORATED",
+        "WAREHOUSE ONE, INC"
+      ]
+    },
+    "MT": {
+      "stateName": "Montana",
+      "count": 1,
+      "awardees": [
+        "ACM ELITE, LLC"
+      ]
+    },
+    "NE": {
+      "stateName": "Nebraska",
+      "count": 1,
+      "awardees": [
+        "LOGISTICS365 INC"
+      ]
+    },
+    "NV": {
+      "stateName": "Nevada",
+      "count": 1,
+      "awardees": [
+        "Quixle LLC"
+      ]
+    },
+    "NH": {
+      "stateName": "New Hampshire",
+      "count": 2,
+      "awardees": [
+        "CLOUGH H R INC",
+        "TOWNLINE EQUIPMENT SALES, INC"
+      ]
+    },
+    "NJ": {
+      "stateName": "New Jersey",
+      "count": 7,
+      "awardees": [
+        "ADAM N EVE SAFETY LLC",
+        "HANSOME ENERGY SYSTEMS INC",
+        "HERMEZ COMMUNICATIONS INC",
+        "JRH ELECTRONICS L.L.C.",
+        "POWELL ELECTRONICS, INC.",
+        "SHELL PACKAGING CORPORATION",
+        "THE TOOTA GROUP LLC"
+      ]
+    },
+    "NM": {
+      "stateName": "New Mexico",
+      "count": 2,
+      "awardees": [
+        "MAGNUM PRECISION MACHINES INC",
+        "Suncore Distribution LLC"
+      ]
+    },
+    "NY": {
+      "stateName": "New York",
+      "count": 17,
+      "awardees": [
+        "ADORAMA INC.",
+        "ARKWIN INDUSTRIES, INC.",
+        "BEST MEDICAL WEAR LTD",
+        "BEVY ELECTRONICS CORP.",
+        "BUY IT SOLUTIONS INC",
+        "IT VISION NETWORKS INC",
+        "JAMAICA BEARINGS CO., INC.",
+        "KELLY & HAYES ELECTRICAL SUPPLY OF L.I., INC.",
+        "LIVING GROUP LLC",
+        "Lockheed Martin Corporation",
+        "PRECISION FILTERS, INC.",
+        "ROSCO INC",
+        "SEDGWICK BUSINESS INTERIORS - SYRACUSE LLC",
+        "STAR POLY BAG, INC.",
+        "STELLANT PST CORP.",
+        "T & T MATERIALS INC",
+        "TACTICAL VISION TECHNOLOGIES, LLC"
+      ]
+    },
+    "NC": {
+      "stateName": "North Carolina",
+      "count": 3,
+      "awardees": [
+        "MACGYVER SOLUTIONS, INC.",
+        "MDM MAC ENTERPRISES INC",
+        "Troxler Electronic Laboratories, Inc."
+      ]
+    },
+    "ND": {
+      "stateName": "North Dakota",
+      "count": 0,
+      "awardees": []
+    },
+    "OH": {
+      "stateName": "Ohio",
+      "count": 4,
+      "awardees": [
+        "ARMOR METAL GROUP MASON, INC.",
+        "CFM INTERNATIONAL INC",
+        "INTEGRATED PROCUREMENT TECHNOLOGIES",
+        "MEAK SOLUTIONS LLC."
+      ]
+    },
+    "OK": {
+      "stateName": "Oklahoma",
+      "count": 4,
+      "awardees": [
+        "BHPE LLC",
+        "MACHINE TOOL MARKETING INC",
+        "MILITARY AIRLIFT EXPERTS LLC (MILAIRX LLC)",
+        "NORTHROP GRUMMAN SYSTEMS CORPORATION"
+      ]
+    },
+    "OR": {
+      "stateName": "Oregon",
+      "count": 1,
+      "awardees": [
+        "Supera, LLC"
+      ]
+    },
+    "PA": {
+      "stateName": "Pennsylvania",
+      "count": 12,
+      "awardees": [
+        "D. C. HUMPHRYS CO.",
+        "FED CREW INC",
+        "FSR CONSULTING LLC",
+        "IRWIN AUTOMATION INC",
+        "MAGRITEK INC",
+        "MILITARY SUPPLY CO LLC",
+        "NIDAZ LLC",
+        "Penn Power Group",
+        "QORTEK INC",
+        "SBG DEFENSE LLC",
+        "SKOVIRA MACHINE CO",
+        "VECTOR COLLISION ANALYSIS LLC"
+      ]
+    },
+    "RI": {
+      "stateName": "Rhode Island",
+      "count": 1,
+      "awardees": [
+        "FEOLE TECHNOLOGIES INC"
+      ]
+    },
+    "SC": {
+      "stateName": "South Carolina",
+      "count": 2,
+      "awardees": [
+        "Blue Heron Tactical Supply LLC",
+        "NEWCO INC"
+      ]
+    },
+    "SD": {
+      "stateName": "South Dakota",
+      "count": 0,
+      "awardees": []
+    },
+    "TN": {
+      "stateName": "Tennessee",
+      "count": 2,
+      "awardees": [
+        "AMERICAN BEDDING MFG., LLC",
+        "ECI DEFENSE GROUP, INC."
+      ]
+    },
+    "TX": {
+      "stateName": "Texas",
+      "count": 13,
+      "awardees": [
+        "3T BUSINESS GROUP LLC",
+        "Aantilia LLC",
+        "BELL BOEING JOINT PROJECT OFFICE",
+        "DXP ENTERPRISES, INC.",
+        "EARL HELMER III",
+        "G SYSTEMS, INC.",
+        "INDEPENDENT ROUGH TERRAIN CENTER LLC",
+        "ONE 21 LOGISTICS LLC",
+        "PC VISION INC",
+        "PROSOURCE PACKAGING INC",
+        "SHOPPAS MATERIAL HANDLING, LTD.",
+        "US BOLT MANUFACTURING INC",
+        "VCLOUD GOV INC."
+      ]
+    },
+    "UT": {
+      "stateName": "Utah",
+      "count": 3,
+      "awardees": [
+        "SKO ENTERPRISES INC",
+        "THE BOEING COMPANY",
+        "TRAVERSE SOLUTIONS & INSTRUMENTATION, LLC"
+      ]
+    },
+    "VT": {
+      "stateName": "Vermont",
+      "count": 0,
+      "awardees": []
+    },
+    "VA": {
+      "stateName": "Virginia",
+      "count": 14,
+      "awardees": [
+        "ALTERNATIVE LOGISTICS LLC",
+        "ATLANTIC DIVING SUPPLY, INC.",
+        "Argon ST, Inc.",
+        "CONCEPTA MANAGEMENT LLC",
+        "EQUINOX STRATEGIES LLC",
+        "Ecology Mir Group LLC",
+        "FEDTEK, INC.",
+        "GLOBAL ENTERPRISE, INC",
+        "GMS INDUSTRIAL SUPPLY, INC.",
+        "HAWKINS GLASS WHOLESALERS, L.L.C",
+        "I-2-I Solutions, Inc.",
+        "SPARK INDUSTRIES MFG LLC",
+        "TIM PRICE INC.",
+        "VASTGLOBE LOGISTICS LLC"
+      ]
+    },
+    "WA": {
+      "stateName": "Washington",
+      "count": 6,
+      "awardees": [
+        "CENTRAL WELDING SUPPLY COMPANY",
+        "EHB SUPPLY",
+        "INDUSTRIAL AUTOMATION INC",
+        "PLATYPUS MARINE INC",
+        "RICE LAKE WEIGHING SYSTEMS, INC",
+        "Tower Engineering Company"
+      ]
+    },
+    "WV": {
+      "stateName": "West Virginia",
+      "count": 0,
+      "awardees": []
+    },
+    "WI": {
+      "stateName": "Wisconsin",
+      "count": 2,
+      "awardees": [
+        "JOHNSON CONTROLS, INC",
+        "POMP'S TIRE SERVICE, INC."
+      ]
+    },
+    "WY": {
+      "stateName": "Wyoming",
+      "count": 2,
+      "awardees": [
+        "EPSILON TECHNOLOGY CORPORATION",
+        "RED ORANGE NORTH AMERICA"
+      ]
+    }
+  }
+}
